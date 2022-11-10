@@ -1,6 +1,6 @@
 # AnaliseSQL-InspecoesSanitarias-NaviosCruzeiros
 
-Análise de Dados usando linguaguem SQL \n
+Análise de Dados usando linguaguem SQL.
 Fonte de Dados: Inspeções Sanitárias em Navios de Cruzeiro.
 Dados públicos oferecido pelo Portal Brasileiro de Dados Abertos:
 https://dados.gov.br/dataset/dados-abertos-de-inspecao-em-navios-de-cruzeiro
