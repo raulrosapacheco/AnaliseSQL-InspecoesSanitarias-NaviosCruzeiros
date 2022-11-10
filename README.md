@@ -3,7 +3,7 @@
 Análise de Dados usando linguaguem SQL.
 
 Fonte de Dados: Inspeções Sanitárias em Navios de Cruzeiro.
-Dados públicos oferecido pelo Portal Brasileiro de Dados Abertos:
+Dados públicos oferecidos pelo Portal Brasileiro de Dados Abertos:
 https://dados.gov.br/dataset/dados-abertos-de-inspecao-em-navios-de-cruzeiro
 
 As Perguntas Negócio foram desenvolvidas pelo curso SQL Para Data Science da Data Science Academy:
