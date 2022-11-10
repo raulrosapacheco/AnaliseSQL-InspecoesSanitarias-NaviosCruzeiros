@@ -8,7 +8,7 @@ https://dados.gov.br/dataset/dados-abertos-de-inspecao-em-navios-de-cruzeiro
 As Perguntas Negócio foram desenvolvidas pelo curso SQL Para Data Science da Data Science Academy:
 https://www.datascienceacademy.com.br/course/sql-para-data-science-dsa
 
-1 - Algum navio teve indice de conformidade 100%, pontuação de risco 0 em novembro de 2016?
+1. Algum navio teve indice de conformidade 100%, pontuação de risco 0 em novembro de 2016?
 2 - Quais embarcações possuem pontuação de risco igual a 310? 
 3 - Quais embarcações têm classificação de risco A e índice de conformidade maior ou igual a 95%?
 4 - Quais embarcações têm classificação de risco C ou D e índice de conformidade menor ou igual a 95%?
