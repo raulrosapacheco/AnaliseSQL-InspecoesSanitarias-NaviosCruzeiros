@@ -11,3 +11,13 @@ Neste DataSet é possível encontrar dados como:
 - Pontuação de Risco
 - Índice de Conformidade
 - Temporada de Inspeção
+
+Utilizamos neste pequeno projeto os conhecimentos abaixo:
+- Criação de um Schema
+- Preparação do Banco de Dados
+- Importação dos Dados
+- SELECT, SELECT *, SELECT DISTINCT
+- WHERE, ORDER BY
+- AND, OR, IN
+- LIMIT
+- LIKE
